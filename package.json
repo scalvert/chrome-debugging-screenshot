@@ -1,0 +1,12 @@
+{
+  "name": "chrome-debugging-screenshot",
+  "version": "1.0.0",
+  "description": "A script to take a screenshot of a page with Chrome Debugging Protocol",
+  "main": "index.js",
+  "author": "Steve Calvert <scalvert@linkedin.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-debugging-client": "^1.1.0",
+    "yargs": "^14.2.0"
+  }
+}
